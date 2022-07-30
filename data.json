@@ -2,8 +2,8 @@
   {
     "full_name": "taskless/taskless",
     "stargazers_count": 7,
-    "open_issues_count": 2,
-    "forks_count": 0
+    "open_issues_count": 1,
+    "forks_count": 1
   },
   {
     "full_name": "jakobo/hotp-php",
@@ -13,20 +13,20 @@
   },
   {
     "full_name": "graphql-nexus/nexus",
-    "stargazers_count": 3042,
-    "open_issues_count": 233,
+    "stargazers_count": 3045,
+    "open_issues_count": 234,
     "forks_count": 268
   },
   {
     "full_name": "jakobo/docmq",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 729,
+    "stargazers_count": 730,
     "open_issues_count": 16,
-    "forks_count": 335
+    "forks_count": 337
   }
 ]
