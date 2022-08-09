@@ -8,38 +8,38 @@
   {
     "full_name": "jakobo/docmq",
     "stargazers_count": 9,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
     "full_name": "graphql-nexus/nexus",
-    "stargazers_count": 3049,
+    "stargazers_count": 3055,
     "open_issues_count": 234,
-    "forks_count": 268
+    "forks_count": 267
   },
   {
     "full_name": "hunterloftis/throng",
-    "stargazers_count": 824,
+    "stargazers_count": 823,
     "open_issues_count": 10,
     "forks_count": 47
   },
   {
     "full_name": "nodkz/mongodb-memory-server",
-    "stargazers_count": 1966,
-    "open_issues_count": 24,
+    "stargazers_count": 1969,
+    "open_issues_count": 21,
     "forks_count": 141
   },
   {
     "full_name": "JamieMason/syncpack",
-    "stargazers_count": 579,
-    "open_issues_count": 10,
+    "stargazers_count": 581,
+    "open_issues_count": 11,
     "forks_count": 25
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 5254,
+    "stargazers_count": 5279,
     "open_issues_count": 60,
-    "forks_count": 274
+    "forks_count": 275
   },
   {
     "full_name": "jakobo/codedrift",
@@ -56,12 +56,12 @@
   {
     "full_name": "BrainMaestro/composer-git-hooks",
     "stargazers_count": 965,
-    "open_issues_count": 5,
-    "forks_count": 68
+    "open_issues_count": 7,
+    "forks_count": 69
   },
   {
     "full_name": "quirrel-dev/quirrel",
-    "stargazers_count": 578,
+    "stargazers_count": 581,
     "open_issues_count": 25,
     "forks_count": 49
   },
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "gorhom/react-native-bottom-sheet",
-    "stargazers_count": 3599,
-    "open_issues_count": 57,
+    "stargazers_count": 3619,
+    "open_issues_count": 56,
     "forks_count": 368
   },
   {
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "jaredh159/tailwind-react-native-classnames",
-    "stargazers_count": 1111,
-    "open_issues_count": 8,
+    "stargazers_count": 1119,
+    "open_issues_count": 7,
     "forks_count": 46
   },
   {
     "full_name": "voidcosmos/npkill",
-    "stargazers_count": 6029,
+    "stargazers_count": 6104,
     "open_issues_count": 35,
-    "forks_count": 158
+    "forks_count": 160
   },
   {
     "full_name": "boschni/normalized-cache",
@@ -103,27 +103,27 @@
   },
   {
     "full_name": "CzBiX/WSLHostPatcher",
-    "stargazers_count": 365,
+    "stargazers_count": 366,
     "open_issues_count": 1,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "your-tools/tsrc",
     "stargazers_count": 185,
     "open_issues_count": 30,
-    "forks_count": 31
+    "forks_count": 30
   },
   {
     "full_name": "react-native-elements/react-native-elements",
-    "stargazers_count": 22650,
-    "open_issues_count": 35,
-    "forks_count": 4444
+    "stargazers_count": 22663,
+    "open_issues_count": 34,
+    "forks_count": 4445
   },
   {
     "full_name": "bigmlcom/bigml-node",
     "stargazers_count": 50,
     "open_issues_count": 0,
-    "forks_count": 27
+    "forks_count": 26
   },
   {
     "full_name": "chrislloyd/dotfiles",
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "airbnb/lottie",
-    "stargazers_count": 3588,
+    "stargazers_count": 3590,
     "open_issues_count": 27,
     "forks_count": 282
   },
   {
     "full_name": "segmentio/evergreen",
-    "stargazers_count": 11739,
+    "stargazers_count": 11741,
     "open_issues_count": 40,
     "forks_count": 791
   },
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "dependabot/dependabot-core",
-    "stargazers_count": 2824,
-    "open_issues_count": 949,
-    "forks_count": 660
+    "stargazers_count": 2827,
+    "open_issues_count": 947,
+    "forks_count": 659
   },
   {
     "full_name": "kfahy/slack-disable-wysiwyg-bookmarklet",
-    "stargazers_count": 832,
+    "stargazers_count": 831,
     "open_issues_count": 9,
     "forks_count": 24
   },
   {
     "full_name": "guidesmiths/rascal",
-    "stargazers_count": 370,
+    "stargazers_count": 371,
     "open_issues_count": 0,
     "forks_count": 61
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "koajs/router",
-    "stargazers_count": 700,
-    "open_issues_count": 23,
+    "stargazers_count": 701,
+    "open_issues_count": 24,
     "forks_count": 156
   }
 ]
