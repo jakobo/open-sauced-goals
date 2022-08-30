@@ -1,9 +1,9 @@
 [
   {
     "full_name": "orta/vscode-twoslash-queries",
-    "stargazers_count": 54,
-    "open_issues_count": 4,
-    "forks_count": 4
+    "stargazers_count": 104,
+    "open_issues_count": 7,
+    "forks_count": 5
   },
   {
     "full_name": "jakobo/docmq",
@@ -13,33 +13,33 @@
   },
   {
     "full_name": "graphql-nexus/nexus",
-    "stargazers_count": 3072,
+    "stargazers_count": 3079,
     "open_issues_count": 238,
-    "forks_count": 272
+    "forks_count": 273
   },
   {
     "full_name": "hunterloftis/throng",
-    "stargazers_count": 827,
+    "stargazers_count": 830,
     "open_issues_count": 10,
     "forks_count": 47
   },
   {
     "full_name": "nodkz/mongodb-memory-server",
-    "stargazers_count": 1980,
-    "open_issues_count": 19,
+    "stargazers_count": 1982,
+    "open_issues_count": 20,
     "forks_count": 140
   },
   {
     "full_name": "JamieMason/syncpack",
     "stargazers_count": 592,
-    "open_issues_count": 12,
-    "forks_count": 25
+    "open_issues_count": 13,
+    "forks_count": 26
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 5374,
-    "open_issues_count": 63,
-    "forks_count": 276
+    "stargazers_count": 5384,
+    "open_issues_count": 64,
+    "forks_count": 277
   },
   {
     "full_name": "jakobo/codedrift",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "BrainMaestro/composer-git-hooks",
-    "stargazers_count": 967,
+    "stargazers_count": 968,
     "open_issues_count": 8,
     "forks_count": 69
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "gorhom/react-native-bottom-sheet",
-    "stargazers_count": 3679,
-    "open_issues_count": 60,
-    "forks_count": 378
+    "stargazers_count": 3688,
+    "open_issues_count": 64,
+    "forks_count": 383
   },
   {
     "full_name": "parker-codes/coda-js",
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "jaredh159/tailwind-react-native-classnames",
-    "stargazers_count": 1159,
+    "stargazers_count": 1164,
     "open_issues_count": 7,
-    "forks_count": 47
+    "forks_count": 50
   },
   {
     "full_name": "voidcosmos/npkill",
-    "stargazers_count": 6177,
+    "stargazers_count": 6182,
     "open_issues_count": 35,
     "forks_count": 160
   },
@@ -103,19 +103,19 @@
   },
   {
     "full_name": "CzBiX/WSLHostPatcher",
-    "stargazers_count": 371,
+    "stargazers_count": 373,
     "open_issues_count": 1,
     "forks_count": 29
   },
   {
     "full_name": "your-tools/tsrc",
-    "stargazers_count": 185,
+    "stargazers_count": 187,
     "open_issues_count": 30,
     "forks_count": 30
   },
   {
     "full_name": "react-native-elements/react-native-elements",
-    "stargazers_count": 22720,
+    "stargazers_count": 22729,
     "open_issues_count": 41,
     "forks_count": 4451
   },
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "airbnb/lottie",
-    "stargazers_count": 3628,
+    "stargazers_count": 3634,
     "open_issues_count": 27,
     "forks_count": 287
   },
   {
     "full_name": "segmentio/evergreen",
-    "stargazers_count": 11768,
+    "stargazers_count": 11772,
     "open_issues_count": 48,
-    "forks_count": 794
+    "forks_count": 797
   },
   {
     "full_name": "eddiewebb/circleci-queue",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "dependabot/dependabot-core",
-    "stargazers_count": 2850,
-    "open_issues_count": 859,
-    "forks_count": 669
+    "stargazers_count": 2853,
+    "open_issues_count": 861,
+    "forks_count": 670
   },
   {
     "full_name": "kfahy/slack-disable-wysiwyg-bookmarklet",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "koajs/router",
-    "stargazers_count": 705,
-    "open_issues_count": 26,
-    "forks_count": 159
+    "stargazers_count": 707,
+    "open_issues_count": 28,
+    "forks_count": 160
   }
 ]
