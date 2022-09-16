@@ -1,13 +1,13 @@
 [
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 46392,
-    "open_issues_count": 107,
-    "forks_count": 3141
+    "stargazers_count": 46768,
+    "open_issues_count": 110,
+    "forks_count": 3155
   },
   {
     "full_name": "orta/vscode-twoslash-queries",
-    "stargazers_count": 133,
+    "stargazers_count": 136,
     "open_issues_count": 8,
     "forks_count": 7
   },
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "graphql-nexus/nexus",
-    "stargazers_count": 3090,
-    "open_issues_count": 240,
+    "stargazers_count": 3092,
+    "open_issues_count": 242,
     "forks_count": 276
   },
   {
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "nodkz/mongodb-memory-server",
-    "stargazers_count": 1993,
+    "stargazers_count": 1994,
     "open_issues_count": 23,
     "forks_count": 141
   },
   {
     "full_name": "JamieMason/syncpack",
-    "stargazers_count": 600,
+    "stargazers_count": 609,
     "open_issues_count": 14,
     "forks_count": 26
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 5448,
-    "open_issues_count": 69,
-    "forks_count": 279
+    "stargazers_count": 5471,
+    "open_issues_count": 70,
+    "forks_count": 280
   },
   {
     "full_name": "jakobo/codedrift",
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "jakobo/expo-community-flipper",
-    "stargazers_count": 66,
-    "open_issues_count": 0,
+    "stargazers_count": 68,
+    "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "BrainMaestro/composer-git-hooks",
     "stargazers_count": 971,
     "open_issues_count": 9,
-    "forks_count": 68
+    "forks_count": 70
   },
   {
     "full_name": "quirrel-dev/quirrel",
-    "stargazers_count": 590,
-    "open_issues_count": 25,
+    "stargazers_count": 591,
+    "open_issues_count": 27,
     "forks_count": 49
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "gorhom/react-native-bottom-sheet",
-    "stargazers_count": 3762,
-    "open_issues_count": 64,
-    "forks_count": 399
+    "stargazers_count": 3778,
+    "open_issues_count": 66,
+    "forks_count": 404
   },
   {
     "full_name": "parker-codes/coda-js",
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "jaredh159/tailwind-react-native-classnames",
-    "stargazers_count": 1182,
+    "stargazers_count": 1190,
     "open_issues_count": 6,
     "forks_count": 50
   },
   {
     "full_name": "voidcosmos/npkill",
-    "stargazers_count": 6209,
+    "stargazers_count": 6217,
     "open_issues_count": 34,
     "forks_count": 158
   },
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "CzBiX/WSLHostPatcher",
-    "stargazers_count": 373,
+    "stargazers_count": 375,
     "open_issues_count": 1,
     "forks_count": 29
   },
   {
     "full_name": "your-tools/tsrc",
-    "stargazers_count": 187,
+    "stargazers_count": 188,
     "open_issues_count": 32,
     "forks_count": 31
   },
   {
     "full_name": "react-native-elements/react-native-elements",
-    "stargazers_count": 22775,
+    "stargazers_count": 22786,
     "open_issues_count": 46,
-    "forks_count": 4449
+    "forks_count": 4451
   },
   {
     "full_name": "bigmlcom/bigml-node",
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "airbnb/lottie",
-    "stargazers_count": 3655,
-    "open_issues_count": 29,
+    "stargazers_count": 3662,
+    "open_issues_count": 30,
     "forks_count": 289
   },
   {
     "full_name": "segmentio/evergreen",
-    "stargazers_count": 11786,
-    "open_issues_count": 47,
-    "forks_count": 802
+    "stargazers_count": 11792,
+    "open_issues_count": 48,
+    "forks_count": 805
   },
   {
     "full_name": "eddiewebb/circleci-queue",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 9,
     "forks_count": 47
   },
   {
     "full_name": "dependabot/dependabot-core",
-    "stargazers_count": 2883,
-    "open_issues_count": 843,
-    "forks_count": 672
+    "stargazers_count": 2895,
+    "open_issues_count": 834,
+    "forks_count": 677
   },
   {
     "full_name": "kfahy/slack-disable-wysiwyg-bookmarklet",
@@ -170,7 +170,7 @@
   {
     "full_name": "guidesmiths/rascal",
     "stargazers_count": 374,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 62
   },
   {
