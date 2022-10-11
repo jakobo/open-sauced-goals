@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "jakobo/docmq",
+    "stargazers_count": 9,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
     "full_name": "egoist/tsup",
-    "stargazers_count": 3486,
-    "open_issues_count": 114,
-    "forks_count": 111
+    "stargazers_count": 3521,
+    "open_issues_count": 116,
+    "forks_count": 112
   },
   {
     "full_name": "taskless/taskless",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 47310,
-    "open_issues_count": 100,
-    "forks_count": 3207
+    "stargazers_count": 47414,
+    "open_issues_count": 102,
+    "forks_count": 3216
   },
   {
     "full_name": "orta/vscode-twoslash-queries",
@@ -24,39 +30,33 @@
     "forks_count": 8
   },
   {
-    "full_name": "jakobo/docmq",
-    "stargazers_count": 9,
-    "open_issues_count": 2,
-    "forks_count": 1
-  },
-  {
     "full_name": "graphql-nexus/nexus",
     "stargazers_count": 3116,
     "open_issues_count": 241,
-    "forks_count": 275
+    "forks_count": 274
   },
   {
     "full_name": "hunterloftis/throng",
-    "stargazers_count": 833,
+    "stargazers_count": 834,
     "open_issues_count": 10,
     "forks_count": 47
   },
   {
     "full_name": "nodkz/mongodb-memory-server",
-    "stargazers_count": 2003,
+    "stargazers_count": 2004,
     "open_issues_count": 27,
     "forks_count": 144
   },
   {
     "full_name": "JamieMason/syncpack",
-    "stargazers_count": 620,
-    "open_issues_count": 18,
-    "forks_count": 27
+    "stargazers_count": 625,
+    "open_issues_count": 19,
+    "forks_count": 28
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 5538,
-    "open_issues_count": 72,
+    "stargazers_count": 5561,
+    "open_issues_count": 73,
     "forks_count": 284
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "jakobo/expo-community-flipper",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 1,
     "forks_count": 5
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "quirrel-dev/quirrel",
-    "stargazers_count": 603,
+    "stargazers_count": 604,
     "open_issues_count": 26,
     "forks_count": 53
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "gorhom/react-native-bottom-sheet",
-    "stargazers_count": 3860,
+    "stargazers_count": 3866,
     "open_issues_count": 64,
-    "forks_count": 418
+    "forks_count": 422
   },
   {
     "full_name": "parker-codes/coda-js",
@@ -103,25 +103,25 @@
   },
   {
     "full_name": "jaredh159/tailwind-react-native-classnames",
-    "stargazers_count": 1204,
+    "stargazers_count": 1205,
     "open_issues_count": 6,
     "forks_count": 50
   },
   {
     "full_name": "voidcosmos/npkill",
-    "stargazers_count": 6262,
-    "open_issues_count": 36,
+    "stargazers_count": 6269,
+    "open_issues_count": 25,
     "forks_count": 157
   },
   {
     "full_name": "boschni/normalized-cache",
     "stargazers_count": 55,
     "open_issues_count": 1,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "CzBiX/WSLHostPatcher",
-    "stargazers_count": 384,
+    "stargazers_count": 385,
     "open_issues_count": 1,
     "forks_count": 28
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "react-native-elements/react-native-elements",
-    "stargazers_count": 22858,
+    "stargazers_count": 22881,
     "open_issues_count": 35,
     "forks_count": 4452
   },
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "airbnb/lottie",
-    "stargazers_count": 3690,
+    "stargazers_count": 3699,
     "open_issues_count": 30,
     "forks_count": 292
   },
   {
     "full_name": "segmentio/evergreen",
-    "stargazers_count": 11815,
-    "open_issues_count": 42,
-    "forks_count": 812
+    "stargazers_count": 11818,
+    "open_issues_count": 44,
+    "forks_count": 817
   },
   {
     "full_name": "eddiewebb/circleci-queue",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "dependabot/dependabot-core",
-    "stargazers_count": 2937,
-    "open_issues_count": 823,
-    "forks_count": 695
+    "stargazers_count": 2947,
+    "open_issues_count": 818,
+    "forks_count": 697
   },
   {
     "full_name": "kfahy/slack-disable-wysiwyg-bookmarklet",
