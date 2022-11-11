@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "juliencrn/usehooks-ts",
+    "stargazers_count": 2360,
+    "open_issues_count": 32,
+    "forks_count": 178
+  },
+  {
     "full_name": "avitorio/outstatic",
-    "stargazers_count": 1281,
-    "open_issues_count": 1,
+    "stargazers_count": 1310,
+    "open_issues_count": 0,
     "forks_count": 44
   },
   {
     "full_name": "FormidableLabs/prism-react-renderer",
-    "stargazers_count": 1459,
+    "stargazers_count": 1462,
     "open_issues_count": 25,
-    "forks_count": 132
+    "forks_count": 133
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 13329,
-    "open_issues_count": 132,
-    "forks_count": 480
+    "stargazers_count": 13442,
+    "open_issues_count": 134,
+    "forks_count": 483
   },
   {
     "full_name": "kwhitley/itty-router",
-    "stargazers_count": 831,
+    "stargazers_count": 833,
     "open_issues_count": 11,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "typed-graphql-builder/typed-graphql-builder",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "egoist/tsup",
-    "stargazers_count": 3758,
+    "stargazers_count": 3792,
     "open_issues_count": 115,
-    "forks_count": 117
+    "forks_count": 118
   },
   {
     "full_name": "taskless/taskless",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 48043,
-    "open_issues_count": 89,
-    "forks_count": 3273
+    "stargazers_count": 48136,
+    "open_issues_count": 88,
+    "forks_count": 3283
   },
   {
     "full_name": "orta/vscode-twoslash-queries",
@@ -68,26 +74,26 @@
   {
     "full_name": "hunterloftis/throng",
     "stargazers_count": 834,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 47
   },
   {
     "full_name": "nodkz/mongodb-memory-server",
-    "stargazers_count": 2020,
-    "open_issues_count": 28,
+    "stargazers_count": 2025,
+    "open_issues_count": 26,
     "forks_count": 148
   },
   {
     "full_name": "JamieMason/syncpack",
-    "stargazers_count": 703,
+    "stargazers_count": 704,
     "open_issues_count": 13,
     "forks_count": 28
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 5764,
-    "open_issues_count": 45,
-    "forks_count": 304
+    "stargazers_count": 5773,
+    "open_issues_count": 47,
+    "forks_count": 303
   },
   {
     "full_name": "jakobo/codedrift",
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "quirrel-dev/quirrel",
-    "stargazers_count": 621,
-    "open_issues_count": 11,
+    "stargazers_count": 623,
+    "open_issues_count": 14,
     "forks_count": 54
   },
   {
     "full_name": "gorhom/react-native-bottom-sheet",
-    "stargazers_count": 4021,
-    "open_issues_count": 62,
-    "forks_count": 438
+    "stargazers_count": 4039,
+    "open_issues_count": 60,
+    "forks_count": 442
   },
   {
     "full_name": "parker-codes/coda-js",
@@ -127,13 +133,13 @@
   },
   {
     "full_name": "jaredh159/tailwind-react-native-classnames",
-    "stargazers_count": 1245,
+    "stargazers_count": 1252,
     "open_issues_count": 4,
     "forks_count": 53
   },
   {
     "full_name": "voidcosmos/npkill",
-    "stargazers_count": 6439,
+    "stargazers_count": 6451,
     "open_issues_count": 20,
     "forks_count": 160
   },
@@ -145,21 +151,21 @@
   },
   {
     "full_name": "CzBiX/WSLHostPatcher",
-    "stargazers_count": 387,
+    "stargazers_count": 388,
     "open_issues_count": 1,
     "forks_count": 30
   },
   {
     "full_name": "your-tools/tsrc",
-    "stargazers_count": 192,
-    "open_issues_count": 33,
+    "stargazers_count": 193,
+    "open_issues_count": 32,
     "forks_count": 33
   },
   {
     "full_name": "react-native-elements/react-native-elements",
-    "stargazers_count": 22975,
+    "stargazers_count": 22984,
     "open_issues_count": 30,
-    "forks_count": 4463
+    "forks_count": 4464
   },
   {
     "full_name": "bigmlcom/bigml-node",
@@ -172,11 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "airbnb/lottie",
-    "stargazers_count": 3734,
-    "open_issues_count": 32,
-    "forks_count": 293
   }
 ]
