@@ -1,33 +1,33 @@
 [
   {
     "full_name": "juliencrn/usehooks-ts",
-    "stargazers_count": 2360,
-    "open_issues_count": 32,
+    "stargazers_count": 2377,
+    "open_issues_count": 33,
     "forks_count": 178
   },
   {
     "full_name": "avitorio/outstatic",
-    "stargazers_count": 1310,
-    "open_issues_count": 0,
-    "forks_count": 44
+    "stargazers_count": 1322,
+    "open_issues_count": 1,
+    "forks_count": 45
   },
   {
     "full_name": "FormidableLabs/prism-react-renderer",
-    "stargazers_count": 1462,
+    "stargazers_count": 1466,
     "open_issues_count": 25,
-    "forks_count": 133
+    "forks_count": 134
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 13442,
-    "open_issues_count": 134,
-    "forks_count": 483
+    "stargazers_count": 13530,
+    "open_issues_count": 117,
+    "forks_count": 486
   },
   {
     "full_name": "kwhitley/itty-router",
-    "stargazers_count": 833,
-    "open_issues_count": 11,
-    "forks_count": 48
+    "stargazers_count": 837,
+    "open_issues_count": 12,
+    "forks_count": 49
   },
   {
     "full_name": "typed-graphql-builder/typed-graphql-builder",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "egoist/tsup",
-    "stargazers_count": 3792,
-    "open_issues_count": 115,
-    "forks_count": 118
+    "stargazers_count": 3834,
+    "open_issues_count": 117,
+    "forks_count": 119
   },
   {
     "full_name": "taskless/taskless",
@@ -55,45 +55,45 @@
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 48136,
-    "open_issues_count": 88,
-    "forks_count": 3283
+    "stargazers_count": 48206,
+    "open_issues_count": 90,
+    "forks_count": 3287
   },
   {
     "full_name": "orta/vscode-twoslash-queries",
-    "stargazers_count": 160,
+    "stargazers_count": 161,
     "open_issues_count": 8,
     "forks_count": 8
   },
   {
     "full_name": "graphql-nexus/nexus",
-    "stargazers_count": 3128,
-    "open_issues_count": 244,
-    "forks_count": 273
+    "stargazers_count": 3131,
+    "open_issues_count": 245,
+    "forks_count": 275
   },
   {
     "full_name": "hunterloftis/throng",
-    "stargazers_count": 834,
+    "stargazers_count": 835,
     "open_issues_count": 11,
     "forks_count": 47
   },
   {
     "full_name": "nodkz/mongodb-memory-server",
-    "stargazers_count": 2025,
+    "stargazers_count": 2028,
     "open_issues_count": 26,
-    "forks_count": 148
+    "forks_count": 150
   },
   {
     "full_name": "JamieMason/syncpack",
     "stargazers_count": 704,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 28
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 5773,
-    "open_issues_count": 47,
-    "forks_count": 303
+    "stargazers_count": 5789,
+    "open_issues_count": 51,
+    "forks_count": 304
   },
   {
     "full_name": "jakobo/codedrift",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "BrainMaestro/composer-git-hooks",
-    "stargazers_count": 972,
+    "stargazers_count": 973,
     "open_issues_count": 10,
     "forks_count": 71
   },
   {
     "full_name": "quirrel-dev/quirrel",
-    "stargazers_count": 623,
+    "stargazers_count": 625,
     "open_issues_count": 14,
     "forks_count": 54
   },
   {
     "full_name": "gorhom/react-native-bottom-sheet",
-    "stargazers_count": 4039,
-    "open_issues_count": 60,
-    "forks_count": 442
+    "stargazers_count": 4049,
+    "open_issues_count": 62,
+    "forks_count": 443
   },
   {
     "full_name": "parker-codes/coda-js",
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "jaredh159/tailwind-react-native-classnames",
-    "stargazers_count": 1252,
+    "stargazers_count": 1259,
     "open_issues_count": 4,
-    "forks_count": 53
+    "forks_count": 52
   },
   {
     "full_name": "voidcosmos/npkill",
-    "stargazers_count": 6451,
-    "open_issues_count": 20,
+    "stargazers_count": 6461,
+    "open_issues_count": 19,
     "forks_count": 160
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "CzBiX/WSLHostPatcher",
-    "stargazers_count": 388,
+    "stargazers_count": 389,
     "open_issues_count": 1,
     "forks_count": 30
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "react-native-elements/react-native-elements",
-    "stargazers_count": 22984,
-    "open_issues_count": 30,
-    "forks_count": 4464
+    "stargazers_count": 22999,
+    "open_issues_count": 31,
+    "forks_count": 4469
   },
   {
     "full_name": "bigmlcom/bigml-node",
