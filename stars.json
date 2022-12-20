@@ -1,20 +1,20 @@
 [
   {
     "full_name": "inngest/inngest",
-    "stargazers_count": 132,
-    "open_issues_count": 35,
+    "stargazers_count": 142,
+    "open_issues_count": 43,
     "forks_count": 9
   },
   {
     "full_name": "inngest/inngest-js",
-    "stargazers_count": 26,
-    "open_issues_count": 9,
+    "stargazers_count": 28,
+    "open_issues_count": 6,
     "forks_count": 2
   },
   {
     "full_name": "juliencrn/usehooks-ts",
-    "stargazers_count": 2718,
-    "open_issues_count": 46,
+    "stargazers_count": 2740,
+    "open_issues_count": 49,
     "forks_count": 193
   },
   {
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "FormidableLabs/prism-react-renderer",
-    "stargazers_count": 1490,
+    "stargazers_count": 1491,
     "open_issues_count": 28,
     "forks_count": 135
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 15514,
-    "open_issues_count": 143,
-    "forks_count": 541
+    "stargazers_count": 15771,
+    "open_issues_count": 154,
+    "forks_count": 552
   },
   {
     "full_name": "kwhitley/itty-router",
-    "stargazers_count": 884,
-    "open_issues_count": 13,
-    "forks_count": 52
+    "stargazers_count": 893,
+    "open_issues_count": 6,
+    "forks_count": 53
   },
   {
     "full_name": "typed-graphql-builder/typed-graphql-builder",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "egoist/tsup",
-    "stargazers_count": 4066,
-    "open_issues_count": 133,
-    "forks_count": 130
+    "stargazers_count": 4085,
+    "open_issues_count": 136,
+    "forks_count": 132
   },
   {
     "full_name": "taskless/taskless",
@@ -67,44 +67,44 @@
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 48862,
-    "open_issues_count": 96,
-    "forks_count": 3343
+    "stargazers_count": 48906,
+    "open_issues_count": 93,
+    "forks_count": 3346
   },
   {
     "full_name": "orta/vscode-twoslash-queries",
-    "stargazers_count": 169,
+    "stargazers_count": 170,
     "open_issues_count": 8,
     "forks_count": 9
   },
   {
     "full_name": "graphql-nexus/nexus",
-    "stargazers_count": 3161,
+    "stargazers_count": 3166,
     "open_issues_count": 246,
     "forks_count": 276
   },
   {
     "full_name": "hunterloftis/throng",
-    "stargazers_count": 841,
+    "stargazers_count": 840,
     "open_issues_count": 11,
     "forks_count": 48
   },
   {
     "full_name": "nodkz/mongodb-memory-server",
-    "stargazers_count": 2062,
-    "open_issues_count": 27,
+    "stargazers_count": 2066,
+    "open_issues_count": 26,
     "forks_count": 152
   },
   {
     "full_name": "JamieMason/syncpack",
-    "stargazers_count": 745,
-    "open_issues_count": 11,
-    "forks_count": 28
+    "stargazers_count": 749,
+    "open_issues_count": 12,
+    "forks_count": 29
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 5906,
-    "open_issues_count": 51,
+    "stargazers_count": 5915,
+    "open_issues_count": 53,
     "forks_count": 309
   },
   {
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "quirrel-dev/quirrel",
-    "stargazers_count": 641,
+    "stargazers_count": 644,
     "open_issues_count": 19,
     "forks_count": 56
   },
   {
     "full_name": "gorhom/react-native-bottom-sheet",
-    "stargazers_count": 4153,
-    "open_issues_count": 64,
-    "forks_count": 462
+    "stargazers_count": 4161,
+    "open_issues_count": 62,
+    "forks_count": 464
   },
   {
     "full_name": "parker-codes/coda-js",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "jaredh159/tailwind-react-native-classnames",
-    "stargazers_count": 1290,
+    "stargazers_count": 1297,
     "open_issues_count": 5,
     "forks_count": 55
   },
   {
     "full_name": "voidcosmos/npkill",
-    "stargazers_count": 6578,
+    "stargazers_count": 6581,
     "open_issues_count": 21,
-    "forks_count": 161
+    "forks_count": 162
   },
   {
     "full_name": "boschni/normalized-cache",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "CzBiX/WSLHostPatcher",
-    "stargazers_count": 399,
+    "stargazers_count": 402,
     "open_issues_count": 2,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "your-tools/tsrc",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "react-native-elements/react-native-elements",
-    "stargazers_count": 23106,
-    "open_issues_count": 42,
-    "forks_count": 4487
+    "stargazers_count": 23111,
+    "open_issues_count": 43,
+    "forks_count": 4489
   }
 ]
